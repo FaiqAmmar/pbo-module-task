@@ -1,0 +1,14 @@
+D:\Apps\Visual Studio Community C# source\Modul Praktikum PBO\bin\Debug\net7.0\Modul Praktikum PBO.exe
+D:\Apps\Visual Studio Community C# source\Modul Praktikum PBO\bin\Debug\net7.0\Modul Praktikum PBO.deps.json
+D:\Apps\Visual Studio Community C# source\Modul Praktikum PBO\bin\Debug\net7.0\Modul Praktikum PBO.runtimeconfig.json
+D:\Apps\Visual Studio Community C# source\Modul Praktikum PBO\bin\Debug\net7.0\Modul Praktikum PBO.dll
+D:\Apps\Visual Studio Community C# source\Modul Praktikum PBO\bin\Debug\net7.0\Modul Praktikum PBO.pdb
+D:\Apps\Visual Studio Community C# source\Modul Praktikum PBO\obj\Debug\net7.0\Modul Praktikum PBO.GeneratedMSBuildEditorConfig.editorconfig
+D:\Apps\Visual Studio Community C# source\Modul Praktikum PBO\obj\Debug\net7.0\Modul Praktikum PBO.AssemblyInfoInputs.cache
+D:\Apps\Visual Studio Community C# source\Modul Praktikum PBO\obj\Debug\net7.0\Modul Praktikum PBO.AssemblyInfo.cs
+D:\Apps\Visual Studio Community C# source\Modul Praktikum PBO\obj\Debug\net7.0\Modul Praktikum PBO.csproj.CoreCompileInputs.cache
+D:\Apps\Visual Studio Community C# source\Modul Praktikum PBO\obj\Debug\net7.0\Modul Praktikum PBO.dll
+D:\Apps\Visual Studio Community C# source\Modul Praktikum PBO\obj\Debug\net7.0\refint\Modul Praktikum PBO.dll
+D:\Apps\Visual Studio Community C# source\Modul Praktikum PBO\obj\Debug\net7.0\Modul Praktikum PBO.pdb
+D:\Apps\Visual Studio Community C# source\Modul Praktikum PBO\obj\Debug\net7.0\Modul Praktikum PBO.genruntimeconfig.cache
+D:\Apps\Visual Studio Community C# source\Modul Praktikum PBO\obj\Debug\net7.0\ref\Modul Praktikum PBO.dll
